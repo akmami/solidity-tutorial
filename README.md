@@ -12,4 +12,8 @@ This folder contains solidity (*.sol*) files that covers `data types`,
 `operators`, `functions`, `constructors`, `strings`, `arrays`, `enum`, 
 `struct`, `mapping`.
 
+## Basics 2
 
+This folder contains solidity (*.sol*) files that covers `ether units`, 
+`global variables`, `modifiers`, `functions`, `fallback`, `cryptographic`,
+`withdraw pattern`.
