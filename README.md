@@ -17,3 +17,10 @@ This folder contains solidity (*.sol*) files that covers `data types`,
 This folder contains solidity (*.sol*) files that covers `ether units`, 
 `global variables`, `modifiers`, `functions`, `fallback`, `cryptographic`,
 `withdraw pattern`.
+
+## Basics 3
+
+This folder contains solidity (*.sol*) files that covers `inheritance`,
+`events`, `abstract classes`, `interfaces`, `uniswap introduction`, 
+`libraries`, `error handling`, `decentralized application`.
+
